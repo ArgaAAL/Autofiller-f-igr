@@ -59,5 +59,5 @@ def auto_fill_form(url):
         print("Script completed. Chrome will remain open.")
 
 # URL of the form page
-form_url = "https://igracias.telkomuniversity.ac.id/survey/?pageid=2001&actC=kuesioneredit&exeC=2&course=2&lec_code=MRT"
+form_url = ""
 auto_fill_form(form_url)
